@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown +x StarwarsEpisodeIV.sh
+telnet towel.blinkenlights.nl
