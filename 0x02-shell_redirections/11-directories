@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -na | grep "./" |wc -l
+find . -type d! -path . |wc -l
