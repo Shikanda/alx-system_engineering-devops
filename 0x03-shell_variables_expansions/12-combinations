@@ -1,2 +1,2 @@
 #!/bin/bash
-echo [[:alpha:]] | tr """\n" | grep -v "oo"
+echo [:lower:] | tr """\n" | grep -v "oo"
